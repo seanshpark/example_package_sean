@@ -1,2 +1,3 @@
 # example_package_sean
-following pypi package publication turorial
+
+A small example package for study of pubplication by github Actions to pypi.org.
