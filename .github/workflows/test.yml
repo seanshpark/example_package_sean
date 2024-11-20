@@ -1,6 +1,6 @@
 # from https://github.com/pypa/sampleproject
 
-name: Test
+name: test-pr
 
 on: [pull_request]
 
